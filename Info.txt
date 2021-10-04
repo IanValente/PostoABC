@@ -1,0 +1,4 @@
+Linguagem de programação: Delphi 7
+Banco de dados: Firebird: 2.5 x86
+Tecnologia de relatório: QuickReport
+Tecnologia de acesso a dados: DBExpress
